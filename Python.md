@@ -31,9 +31,9 @@ You can list the skills that a person learns after following this learning path:
 
 ## 🧑🏻‍💻 Programming Knowledge 
  
-You don't any pre-requisite knowledge for the first half of this learning path. However, a basic knowledge of **HTML and CSS** is required for the second half of the learning path.
-
-You can check out the [Web 101](https://github.com/tinkerhub/maker-station/blob/main/Web%20Dev/Web%20101.md) to learn about HTML and CSS.
+ - Python is a relatively easy language to learn, and it is an excellent choice for beginners who are new to programming. 
+ - While it is not necessary to know any specific programming language, having experience with any language can help in understanding the programming concepts better.
+ - With dedication and consistent practice, anyone can learn Python and become proficient in it, regardless of their prior knowledge:)
 
 ## 📲 Installation and Setup
 
