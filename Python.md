@@ -37,44 +37,80 @@ You can list the skills that a person learns after following this learning path:
 
 ## 📲 Installation and Setup
 
-You need a code editor,browser and **Node.js** to follow along this learning path. You can choose the code editor and browser of your choice. The preferred ones are listed below:
-- **VS Code**
+Many PCs and Macs will have python already installed.
 
-    Light-weight code editor by Microsoft with a large ecosystem of plugins to help your workflow
-    
-    [Install VS Code ](https://code.visualstudio.com/download)
-- **Google Chrome**
-    
-    A browser based on V8 JavaScript engine with developer tools.
-    
-    [Install Google Chrome](https://www.google.com/chrome/)
-- **Node.js**
-
-    JavaScript runtime which helps you run JavaScript programs in your system.
-
-    [Install Node](https://nodejs.org/en/download/)
-
-    ***Note:*** Install the stable version
+To check if you have python installed on a Windows PC, search in the start bar for Python or run the following on the Command Line (cmd.exe):
+- python --version
+To check if you have python installed on a Linux or Mac, then on linux open the command line or on Mac open the Terminal and type:
+- python --version
+If not, to install python IDE: [Link](https://www.youtube.com/watch?v=0QibxSdnWW4)
+- If you are a VS code user: [Link](https://youtu.be/zk5qOQBvuK4?t=323)
 ---
 
 
-### Format
-- Topics to Learn
-- Resources to learn the mentioned topics
-- A small activity/exercise where the person can implement the above topics or a simple project the person can build using the above topics. Eg:
-    
-    - Activity
-    
-        - Making an API call after learning **fetch** in JavaScript
-    - Project
+## 💡 Learning Session
 
-        - Build a simple web app using GitHub API to display the Avatar, no: of repositories when the GitHub username is given.(After learning basic HTML/CSS and JavaScript)
+**🎓 Topics to Learn**
+```
+- Variables, Data Types and Operators
+- Strings and Boolean
+- Math and Boolean Logic
+- Control Flow & Loops 
+```
 
-**Note:**
+**🧑🏻‍💻 Learn from**
 
-- It's good to split the topics to learn into different section followed by activities as mentioned above.
+*Video Tutorials*
+- [Python for Beginners by Mosh](https://youtu.be/_uQrJ0TkZlc)
+- [Python full playlist by Brototype](https://www.youtube.com/playlist?list=PLY-ecO2csVHfbpOmWamlb8Mujjdnl1jks)
 
+*Articles/Blogs*
+
+- [Python by w3schools](https://www.w3schools.com/python/python_comments.asp)
+
+**🛠️ Get into action**
+- Both of the above mentioned resources include a lot of activities. Try those activities to get a better Python.
+- Create a Hakerrank Account-[Link](https://www.youtube.com/watch?v=7-p8ec8hJmU)
+- Head to prepare section & select Python 
+- Solve 8 question atleast
+
+### 
+
+**🎓 Topics to Learn**
+``` 
+- Lists
+- Tuples
+- Dictionary
+- Sets
+- Functions
 ---
+
+**🧑🏻‍💻 Learn from**
+
+*Video Tutorials*
+- [Python lectures by Corey](https://www.youtube.com/watch?v=W8KRzm-HUcc)
+
+*Articles/Blogs*
+-  [w3schools tutorial](https://www.w3schools.com/python/python_lists.asp)
+
+**🛠️ Get into action**
+- Solve till question 15 under python in Hakerrank.
+
+**🎓 Topics to Learn**
+```
+- Lambda
+- Arrays
+- Classes/Objects
+- Inheritance
+- Iterators
+- Scope
+---
+
+**🧑🏻‍💻 Learn from**
+
+*Video Tutorials*
+
+
 ## 🔖 Resource Pool
 
 You can list additional resources(blogs,videos or books) the person can use to learn more about the technology. You can also include Newsletters to stay updated about  the technology and the communities to connect and network with people working on the specified technology
