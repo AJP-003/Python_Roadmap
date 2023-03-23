@@ -83,7 +83,7 @@ If not, to install python IDE: [Link](https://www.youtube.com/watch?v=0QibxSdnWW
 - Dictionary
 - Sets
 - Functions
----
+```
 
 **🧑🏻‍💻 Learn from**
 
@@ -104,41 +104,72 @@ If not, to install python IDE: [Link](https://www.youtube.com/watch?v=0QibxSdnWW
 - Inheritance
 - Iterators
 - Scope
----
+```
 
 **🧑🏻‍💻 Learn from**
 
 *Video Tutorials*
+- [Lecture from codebase-playlist:15](https://www.youtube.com/watch?v=eykoKxsYtow&list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0)
 
+*Articles/Blogs*
+- [w3Schools Tutorial](https://www.w3schools.com/python/python_lambda.asp)
+
+**🛠️ Get into action**
+- Solve till question 30 under python in Hakerrank.
+
+**🎓 Topics to Learn**
+```
+- Modules
+- Dates
+- Math
+- JSON
+- RegEx
+- PIP
+- Try...Except
+- User Input
+- String Formatting
+- File Handling
+- Database
+```
+**🧑🏻‍💻 Learn from**
+
+*Video Tutorials*
+- Refer any of the above given playlists
+- [Database](https://www.youtube.com/watch?v=zrNHkRgWzTI)
+
+*Articles/Blogs*
+- [w3Schools Tutorial](https://www.w3schools.com/python/python_modules.asp)
 
 ## 🔖 Resource Pool
 
-You can list additional resources(blogs,videos or books) the person can use to learn more about the technology. You can also include Newsletters to stay updated about  the technology and the communities to connect and network with people working on the specified technology
-
 ### Articles/Blogs
--
--
+- [Official Documentation](https://docs.python.org/3/tutorial/)
+- [Tutprial Point](https://www.tutorialspoint.com/python/index.htm)
 
 ### Videos
--
--
+- [Telusko](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
+- [Krish Naik](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB)
 
-### Books (Optional)
--
--
 
-### Newsletters (Optional)
--
--
-
-### Communities (Optional)
+### Communities 
+- [LinkedIn python community](https://www.linkedin.com/groups/101591/)
+- [Python Hub instagram](https://www.instagram.com/python.hub/)
 
 ---
 ## 🚀 Project Pool
-
-You can list the project ideas the person could try out and build using the technology mentioned in the learning path.
-
-**Good to have** :A few demo project links for the persons reference
+- Dice Rolling Stimulator	: This is a simple dice stimulator 
+- Dictionary	A dictionary stimulator by Python in which you can enter any words and you will get the definition of it as the output.	
+-	Hangman Game	A hangman game stimulator using Python in which the player have 10 attempts to guess the phrase before the men is hung.	
+-	Tic Tac Toe	A simple game of tic tac toe, built in python.
+-	Plotter	An automation program to plot data with different visualisations by user selections.	
+-	Geographical Plot Using Folium	Using Folium library to create different map data visualization.	
+-	Caterpillar Game	A simple Caterpillar game built in python.	
+-	Matchmaker Game	A simple Matchmaker game built by using python.	
+-	Smart Calculator	A smart calculator using for basic math equations, built by using python.	
+-	Screenpet	A cute screenpet having different reactions when interact on desktop.
+-	[Reference to above projects](https://github.com/ndleah/python-mini-project)
+- [Some advanced projects](https://www.youtube.com/watch?v=etSRnPp9H8s&list=PLDBeG9ubvskv7NRa_klzm0nmaoOvcuuc5)
+- [Canteen Mangement system](https://github.com/AJP-003/Canteen-Management-System-In-Python)
 
 
 
