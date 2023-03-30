@@ -1,5 +1,5 @@
 # Python Roadmap
-Welcome to my ultimate resource for learning Python! Whether you're a complete beginner or an experienced programmer, this repository is here to help you master the Python programming language with its essence. 
+Welcome to my ultimate resource for learning Python! Whether you're a complete beginner or an experienced programmer, this repository is here to help you master the Python programming language. 
 Inside this repository, you'll find a variety of resources to suit your learning style and level of experience. I've included:
 * Beginner-friendly tutorials and exercises
 * More advanced projects and libraries
