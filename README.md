@@ -7,4 +7,4 @@ Inside this repository, you'll find a variety of resources to suit your learning
 
 My goal is to create a welcoming and supportive community of Python learners, where everyone can share their knowledge and help each other improve. So whether you're just starting out or you're a seasoned Python pro, I invite you to join me on this exciting learning journey!
 
-Follow me for more updates
+Follow me
